@@ -1,0 +1,9 @@
+__pycache__/
+build/
+*.c
+*.h
+*.so
+*.pyxbldc
+.vscode/
+venv/
+env/
